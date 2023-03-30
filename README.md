@@ -7,6 +7,10 @@ Specifically, they want to offer users the ability to discover top-rated directo
 >- To increase engagement on the platform by encouraging users to explore director-related content.
 >- To establish IMDB as the go-to source for movie and TV-related information.
 
+### Data Visualization
+See the [Interactive Dashboard](https://public.tableau.com/app/profile/divya.goyal/viz/GendercountofDirectors/Sheet3) live on my Tableau Public profile.
+
+
 ### Proposed Solution 📈
 To achieve the business goals, we propose building a Director Insights feature on the IMDB platform. The feature would allow users to search for directors and view their filmography, ratings, and other important information. The feature would also allow users to discover top
 **Some of the relevant questions that can be addressed using the IMDB movie database**
