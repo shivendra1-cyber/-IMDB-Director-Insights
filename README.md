@@ -18,5 +18,4 @@ To achieve the business goals, we propose building a Director Insights feature o
 ### Conclusion
 By analyzing the data and answering these questions, we can gain insights that can be useful for making business decisions related to the movie industry.
 ### Data Sets
->- https://drive.google.com/file/d/1Ws-_s1fHZ9nHfGLVUQurbHDvStePlEJm/view?usp=sharing
->- https://drive.google.com/file/d/1Ws-_s1fHZ9nHfGLVUQurbHDvStePlEJm/view?usp=sharing
+- https://drive.google.com/file/d/1Ws-_s1fHZ9nHfGLVUQurbHDvStePlEJm/view?usp=sharing
